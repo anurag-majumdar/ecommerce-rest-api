@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_URL_DEV": "mongodb://127.0.0.1:27017/node-rest-shop",
+        "MONGO_URL_PROD": "",
+        "JWT_KEY": "dmp42dsokcmXkda@gjC"
+    }
+}
